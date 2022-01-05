@@ -1,3 +1,3 @@
 # BloodBank
 
-video link : https://www.youtube.com/watch?v=F3jKMBA5KcY
+demo video link : https://www.youtube.com/watch?v=F3jKMBA5KcY
